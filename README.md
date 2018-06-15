@@ -1,3 +1,13 @@
+The attempts was untimately unsuccessful. I could finish the task ,but I have reached my 2.5 hour limit. This was my first time implimenting CORS so at least I learned a lot.
+
+File Changes:
+added: potree/corshelper.js
+
+edited: potree-test/blob/develop/examples/viewer.html
+    added a few lines to used CORS help file 
+    
+    
+### I wrote nothing below this but its still true for getting started with this project
 
 # README
 
